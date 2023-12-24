@@ -1,6 +1,6 @@
 # portfolio
 
-Refer to the branch -> landing_page
+Refer to the branch -> first_project
 -------------------------------------
 
 0. Cloned this repository to the local drive.
