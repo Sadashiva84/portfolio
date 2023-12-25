@@ -29,4 +29,6 @@ This succcessfully creates an ec2 instance using terraform
 
 ![instance](/images/instance_init.png)
     
-2. 
+2. After the instance is created, it generates a .pem file through which we can easily ssh. Also we are going to install Jenkins using Ansible.
+
+ 
