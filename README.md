@@ -29,4 +29,9 @@ This succcessfully creates an ec2 instance using terraform
 
 ![instance](/images/instance_init.png)
     
-2. 
+2. Create a simple Flask-Python template for your portfolio.
+
+![template](/images/template.png)
+
+3. Install Ansible
+
